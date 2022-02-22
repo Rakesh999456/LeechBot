@@ -124,7 +124,7 @@ You can add multiple IDs seperated by space.
 
 * search for known issues, [here](https://t.me/c/1434259219/118) or in the [GitHub Issues](https://github.com/SpEcHiDe/PublicLeech/issues).
 
-* add issues / feature requests, [here](https://github.com/SpEcHiDe/PublicLeech/issues/new).
+* add issues / feature requests, [here](https://github.com/rakesh999456PublicLeech/issues/new).
 
 * the GitHub Issue Tracker is only for Issue / Feature Requests. For any support, please use the Telegram Group.
 
